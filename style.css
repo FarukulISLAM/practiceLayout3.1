@@ -1,3 +1,7 @@
 .cardImag{
     margin-bottom: -50px !important;
 }
+
+.gradiant{
+    background-image: linear-gradient(to right, #5a47ef, #9629a3);
+}
